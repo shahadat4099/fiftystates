@@ -29,6 +29,6 @@ In GitHub repository Settings → Pages, select Deploy from a branch, main, / (r
 - Geometry: US Atlas 3.0.1, derived from the U.S. Census Bureau. https://github.com/topojson/us-atlas
 - D3 7.9.0 (ISC); TopoJSON Client 3.1.0 (ISC); jsPDF 2.5.2 (MIT). Vendored with upstream license notices; full licenses in vendor/.
 - Grand Teton photograph: NPS staff, public domain, from Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Views_at_Grand_Teton_National_Park,_Wyoming_(f07dce63-49b2-4c89-b600-0f9f28b92570).jpg
-- Typography: DM Sans and Playfair Display served by Google Fonts, with system fallbacks.
+- Typography: self-hosted Inter and Manrope, licensed under SIL OFL (license files in assets/fonts/), with system fallbacks.
 
 Alaska and Hawaii use map insets. D.C. and territories are not included in the 50-state count. Browser storage is device-local and not synchronized. Destination discovery links to NPS; a full travel-guide database, itinerary planner, games, and community submissions are future features.
