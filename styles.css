@@ -24,3 +24,6 @@ dialog{width:min(540px,calc(100% - 32px));max-height:calc(100dvh - 40px);border:
 .section-heading>a:hover,.guide-link:hover{color:#9e303b}
 .picker-actions button,.atlas-footnote button{color:#9e303b}
 button.primary:hover,.button-link.primary:hover{background:#243e58}
+
+/* Keep all three navigation destinations comfortable on phones. */
+@media(max-width:700px){header{height:auto;min-height:74px;flex-wrap:wrap;padding-top:15px;gap:0}.brand{margin-bottom:8px}nav{height:45px;width:100%;gap:24px}nav a{height:45px}}

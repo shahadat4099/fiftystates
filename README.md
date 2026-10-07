@@ -10,7 +10,9 @@ This is the public address to use and share.
 
 ### Campus trails university guide
 
-The university guide is currently a design preview and has not been published. There is no public university-page URL yet. The proposed guide uses U.S. News as its lead ranking source, with clearly labeled local additions where needed. Draft selections require verification before publication.
+Visit **[Campus trails](https://shahadat4099.github.io/fiftystates/campuses/)**, available from the main navigation. Browse all 50 states with three campus candidates per state, or search by state or school. U.S. News is the lead ranking source; sourced cards show the year, category, and source link. Local additions carry no implied rank.
+
+The Massachusetts sample includes three sourced rankings. Other selections remain clearly labeled draft candidates awaiting ranking and visitor-information verification; this is not yet a verified top-three list for every state.
 
 ## Features
 
