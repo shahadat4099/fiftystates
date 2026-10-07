@@ -2,6 +2,16 @@
 
 A personal atlas of all 50 U.S. states with an original map-first layout, accessible state editor drawer, customization panel, and editorial destination cards.
 
+## Website
+
+Visit the published website: **[FiftyStates](https://shahadat4099.github.io/fiftystates/)**.
+
+This is the public address to use and share.
+
+### Campus trails university guide
+
+The university guide is currently a design preview and has not been published. There is no public university-page URL yet. The proposed guide uses U.S. News as its lead ranking source, with clearly labeled local additions where needed. Draft selections require verification before publication.
+
 ## Features
 
 - Native dialog panels for state editing and map customization, with Escape and focus restoration.
@@ -11,16 +21,6 @@ A personal atlas of all 50 U.S. states with an original map-first layout, access
 - Explore state-specific official National Park Service pages and three featured parks.
 - Public-domain photos: Acadia by NPS/Victoria Stauffenberg (https://npgallery.nps.gov/AssetDetail/1cde9bcf-cc98-4513-8e06-fcf608af25ab), Great Sand Dunes by NPS/Mackenzie Reed (https://npgallery.nps.gov/AssetDetail/bfad0ff7-10ce-458a-b02d-56b8cfee10a8).
 - Responsive desktop/mobile layout; no account, backend, or analytics.
-
-## Run locally
-
-From the repository directory:
-
-```sh
-python3 -m http.server 8000
-```
-
-Open http://localhost:8000. A server is needed for the local map JSON; opening index.html directly is unsupported.
 
 ## Publish
 
