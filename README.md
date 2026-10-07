@@ -1,13 +1,15 @@
 # FiftyStates
 
-A responsive, browser-local travel map of all 50 U.S. states, inspired by Unseen Bangladesh. Original FiftyStates interface and code.
+A personal atlas of all 50 U.S. states with an original map-first layout, accessible state editor drawer, customization panel, and editorial destination cards.
 
 ## Features
 
+- Native dialog panels for state editing and map customization, with Escape and focus restoration.
 - Click or keyboard-select states on a geographic map; search and browse by region.
 - Saved visited states, traveler name, labels, and five color themes in localStorage.
 - Download a personalized high-resolution PNG, JPG, or PDF.
-- Explore state-specific official National Park Service pages.
+- Explore state-specific official National Park Service pages and three featured parks.
+- Public-domain photos: Acadia by NPS/Victoria Stauffenberg (https://npgallery.nps.gov/AssetDetail/1cde9bcf-cc98-4513-8e06-fcf608af25ab), Great Sand Dunes by NPS/Mackenzie Reed (https://npgallery.nps.gov/AssetDetail/bfad0ff7-10ce-458a-b02d-56b8cfee10a8).
 - Responsive desktop/mobile layout; no account, backend, or analytics.
 
 ## Run locally
